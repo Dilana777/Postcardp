@@ -1,0 +1,25 @@
+body{
+    font-family: Open Sans;
+   
+}
+
+img{
+    width:50%;
+    margin-left: 50px;
+}
+
+.info p {
+  margin-left: 50px;
+  border-bottom: 1px solid gray;
+  color:gray;
+}
+
+.button{
+    text-align: center;
+    background-color:gray;
+    text-decoration: none;
+    padding:2px;
+    margin: 50px 500px;
+    color:black;
+
+}
